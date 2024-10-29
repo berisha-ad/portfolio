@@ -1,6 +1,6 @@
 async function getPosts() {
     try {
-        const res = await fetch('../json/projects.json');
+        const res = await fetch('./json/projects.json');
         const data = await res.json();
         console.log(data);
         data.forEach(element => {

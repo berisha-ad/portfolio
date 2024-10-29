@@ -1,7 +1,7 @@
 [
     {
         "title": "Terrassencafé",
-        "img": "../images/project/terrassencafe.jpg",
+        "img": "./images/project/terrassencafe.jpg",
         "text": "Unternehmenswebseite",
         "link": "https://www.hundertwasserterrassencafe.at/",
         "skills": "Webflow",
@@ -9,7 +9,7 @@
     },
     {
         "title": "Madesign",
-        "img": "../images/project/madesign.jpg",
+        "img": "./images/project/madesign.jpg",
         "text": "Webseite für meine Agentur",
         "link": "https://www.madesign.wien/",
         "skills": "Webflow",
@@ -17,7 +17,7 @@
     },
     {
         "title": "Hautzentrum",
-        "img": "../images/project/hautzentrum.jpg",
+        "img": "./images/project/hautzentrum.jpg",
         "text": "Webseite für das Hautzentrum Med21",
         "link": "https://www.hautzentrum-med21.at/",
         "skills": "Webflow",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Café Pierre",
-        "img": "../images/project/cafepierre.jpg",
+        "img": "./images/project/cafepierre.jpg",
         "text": "Projekt im Studium --> fiktiver Kunde",
         "link": "",
         "skills": "HTML, CSS, Javascript, PHP",

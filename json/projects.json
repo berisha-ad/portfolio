@@ -27,7 +27,7 @@
         "title": "Café Pierre",
         "img": "./images/project/cafepierre.jpg",
         "text": "Projekt im Studium --> fiktiver Kunde",
-        "link": "",
+        "link": "https://berisha-ad.github.io/coffeeshop/",
         "skills": "HTML, CSS, Javascript, PHP",
         "date": "2024"
     }

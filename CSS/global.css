@@ -154,6 +154,16 @@ a {
     font-weight: 400;
 }
 
+.margin-top {
+    margin-top: 3rem;
+}
+
+.project-link {
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-flex;
+    margin-top: 1rem;
+}
 
 /* ---------------------------------------------------
                     HERO - SECTION 

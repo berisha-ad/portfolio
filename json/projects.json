@@ -30,5 +30,13 @@
         "link": "https://berisha-ad.github.io/coffeeshop/",
         "skills": "HTML, CSS, Javascript, PHP",
         "date": "2024"
+    },
+    {
+        "title": "easymath",
+        "img": "./images/project/easymath.svg",
+        "text": "Rechenapplikation --> noch in Bearbeitung",
+        "link": "https://berisha-ad.github.io/easymath/",
+        "skills": "HTML, CSS, Javascript, PHP",
+        "date": "2024"
     }
 ]

@@ -202,6 +202,21 @@ a {
     overflow: hidden;
 }
 
+.contact-icons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.contact-icons a svg {
+    opacity: 0.5;
+    transition: opacity 300ms ease;
+}
+
+.contact-icons a svg:hover {
+    opacity: 1;
+}
+
 
 /* ---------------------------------------------------
                         NAVBAR 
@@ -313,6 +328,13 @@ a {
 .skills-headline {
     font-size: 1rem;
     color: #444;
+}
+
+.hover-arrow {
+    margin-left: auto;
+    font-size: 1.2rem;
+    color: #ffffff40;
+    display: none;
 }
 
  /* ---------------------------------------------------
@@ -482,6 +504,17 @@ footer .logo {
         width: 80%;
     }
 
+    .hover-arrow {
+        margin-left: auto;
+        font-size: 1.2rem;
+        color: #ffffff40;
+        display: none;
+    }
+
+    .contact-icons {
+        justify-content: center;
+    }
+
 
 
 
@@ -532,8 +565,9 @@ footer .logo {
         top: 0;
         width: 100%;
         z-index: 0;
-        transition: all 300ms ease-in;
+        transition: all 300ms ease;
         font-size: 1.5rem;
+        padding-bottom: 20rem;
     }
 
     .link-wrapper.active {
@@ -579,6 +613,17 @@ footer .logo {
     }
     .logo {
         margin-bottom: 6rem;
+    }
+
+    .hero-section-home {
+        height: 60vh;
+    }
+    .contact-icons a svg {
+        height: 30px;
+        width: 30px;
+    }
+    .contact-icons {
+        gap: 2rem;
     }
 }
 

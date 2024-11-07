@@ -158,13 +158,6 @@ a {
     margin-top: 3rem;
 }
 
-.project-link {
-    text-decoration: none;
-    color: var(--text-color);
-    display: inline-flex;
-    margin-top: 1rem;
-}
-
 /* ---------------------------------------------------
                     HERO - SECTION 
 --------------------------------------------------- */
@@ -439,6 +432,13 @@ footer .logo {
 
 .project-section {
     padding-block: 5rem;
+}
+
+.project-link {
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-flex;
+    margin-top: 1rem;
 }
 
  /* ---------------------------------------------------

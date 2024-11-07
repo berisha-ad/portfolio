@@ -15,7 +15,7 @@ async function getPosts() {
                     <p>${element.text}</p>
                     <p class="date">${element.date}</p>
                     <p class="date">${element.skills}</p>
-                    <a href="${element.link}">Projekt besichtigen --></a>`
+                    <a class="project-link nav-link" href="${element.link}">Projekt besichtigen --></a>`
         });
     } catch (error) {
         console.error(error);

@@ -28,7 +28,7 @@
         "img": "./images/project/cafepierre.jpg",
         "text": "Projekt im Studium --> fiktiver Kunde",
         "link": "https://berisha-ad.github.io/coffeeshop/",
-        "skills": "HTML, CSS, Javascript, PHP",
+        "skills": "HTML, CSS, Javascript",
         "date": "2024"
     },
     {
@@ -36,7 +36,7 @@
         "img": "./images/project/easymath.svg",
         "text": "Rechenapplikation --> noch in Bearbeitung",
         "link": "https://berisha-ad.github.io/easymath/",
-        "skills": "HTML, CSS, Javascript, PHP",
+        "skills": "HTML, CSS, Javascript",
         "date": "2024"
     }
 ]
